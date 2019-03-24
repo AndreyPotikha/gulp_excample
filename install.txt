@@ -1,0 +1,7 @@
+install node js
+
+npm install gulpjs/gulp-cli -g   - установить gulp глобально
+npm init
+npm i gulp --save-dev
+npm i - скачать все зависимости
+galp watch - запуск
